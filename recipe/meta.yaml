@@ -1,4 +1,4 @@
-{% set version = "6.11.0" %}
+{% set version = "8.2.1" %}
 
 package:
   name: nodejs
